@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CovidEntryJUnit
+comment0.text=\r\n\ Class\ to\ test\ the\ CovidEntry\ class\r\n\r\n\ @author\ -\ Ana\ Posada\r\n\ @version\ -\ 1.0.0\r\n
+comment1.params=
+comment1.target=void\ testConstructor()
+comment1.text=\r\n\ Test\ constructor\r\n
+numComments=2
